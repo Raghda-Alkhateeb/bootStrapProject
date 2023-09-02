@@ -8,7 +8,7 @@ font-family: 'Roboto', sans-serif;
 *{padding: 0; margin: 0; box-sizing: border-box;font-family: 'Poppins', sans-serif;}
 
 body{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 
 h1{
@@ -36,6 +36,8 @@ h1{
     min-width: 50%;
     max-height: 200px;
 }
+
+
 
 
 
